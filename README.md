@@ -1,5 +1,5 @@
 # React-Working-With-Redux
-A simple demonstration on using Redux to manage application state.
+A simple demonstration leveraging `redux` and `react-redux` to manage application state.
 
 ##
 
