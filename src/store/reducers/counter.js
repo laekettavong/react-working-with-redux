@@ -29,9 +29,6 @@ const reducer = ((state = initialState, { type, value }) => {
                 ...state,
                 counter: state.counter - value
             }
-
-        default:
-            break;
     }
 
     return state;
