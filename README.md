@@ -1,3 +1,8 @@
+# React-Working-With-Redux
+A simple demonstration on using Redux to manage application state.
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
