@@ -9,6 +9,7 @@ import { Provider } from 'react-redux'
 import counterReducer from './store/reducers/counter'
 import resultReducer from './store/reducers/result'
 
+//custom middleware
 const logger = store => {
     return next => {
         return action => {
